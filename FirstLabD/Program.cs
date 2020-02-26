@@ -17,7 +17,6 @@ namespace FirstLabD
             second = Convert.ToDouble(Console.ReadLine());
             double result = Math.Pow((first + second), 2);
             Console.WriteLine(result);
-
             
         }
     }
